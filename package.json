@@ -1,0 +1,21 @@
+{
+  "name": "johnny-integrator",
+  "version": "0.0.1",
+  "description": "Johnny, the continuous integration bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "continuous",
+    "integration"
+  ],
+  "author": "Georgiana Gligor <gb@tekkie.ro>",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "dotenv": "^2.0.0",
+    "restify": "^4.1.1"
+  }
+}
